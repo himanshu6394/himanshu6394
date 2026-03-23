@@ -40,7 +40,7 @@ I am an aspiring Data Engineer with a strong foundation in backend systems and m
 
 Built a production-style fraud detection system using a Medallion Architecture (Bronze, Silver, Gold layers) to process and analyze financial transaction data.
 
-- **Tech Stack**: PySpark, Spark SQL, Python, Kafka  
+- **Tech Stack**: PySpark, Spark SQL, Python 
 - **Key Features**:
   - Designed scalable ETL pipelines handling large transaction datasets  
   - Implemented rule-based fraud detection using Spark SQL  
