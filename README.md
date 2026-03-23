@@ -8,9 +8,9 @@ Welcome to my GitHub profile! I'm a Data Engineer focused on building scalable d
 
 I am an aspiring Data Engineer with a strong foundation in backend systems and machine learning fundamentals. My focus is on designing reliable ETL pipelines, handling large-scale data, and building production-style data platforms.
 
-- 🌱 Currently learning: Advanced PySpark, Data Modeling, and Distributed Systems  
+- 🌱 Currently learning: Advanced PySpark, Data Modeling, and Agentic AI Systems 
 - 💬 Ask me about: Data Engineering, PySpark, SQL, Python, and System Design  
-- 📫 How to reach me: sidsharma7102@gmail.com  
+- 📫 How to reach me: gcethimanshu@gmail.com
 
 ---
 
@@ -22,20 +22,16 @@ I am an aspiring Data Engineer with a strong foundation in backend systems and m
   Python, SQL, C++
 
 - **Data Engineering & Big Data**  
-  PySpark, Apache Spark, Kafka, ETL Pipelines, Data Modeling, Batch & Stream Processing  
+  PySpark, Apache Spark, Airflow, ETL Pipelines, Data Modeling, Batch & Stream Processing  
 
 - **Data Warehousing & Storage**  
   Snowflake, Databricks, MySQL, MongoDB  
 
 - **Backend & APIs**  
-  FastAPI, REST APIs, Microservices  
-
-- **Monitoring & Observability**  
-  Grafana, Prometheus, Loki  
-
-- **DevOps & Tools**  
-  Docker, Kubernetes, Git  
-
+  FastAPI, REST APIs, Microservices
+  
+- **Machine Learning**  
+  Agentic AI, LLMs, RAG, Gen AI
 ---
 
 ## 🚀 Projects
