@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a Data Engineer focused on building scalable d
 
 ## About Me
 
-I am an aspiring Data Engineer with a strong foundation in backend systems and machine learning fundamentals. My focus is on designing reliable ETL pipelines, handling large-scale data, and building production-style data platforms.
+I am Data Engineer with a strong foundation in backend systems and machine learning fundamentals. My focus is on designing reliable ETL pipelines, handling large-scale data, and building production-style data platforms.
 
 - 🌱 Currently learning: Advanced PySpark, Data Modeling, and Agentic AI Systems 
 - 💬 Ask me about: Data Engineering, PySpark, SQL, Python, and System Design  
@@ -84,7 +84,6 @@ A system designed to detect pedestrians in real-time from video streams, enhanci
 
 ## 📬 How to Reach Me
 
-- **Email**: sidsharma7102@gmail.com
-- **LinkedIn**: [linkedin.com/in/siddharth-sharma](https://www.linkedin.com/in/siddharth-sharma-1a0301234/)
-- **LeetCode**: https://leetcode.com/u/Sid_Code7102/
-- **Portfolio Website** : https://sidgit7102.github.io/Siddharth_Sharma_Portfolio/
+- **Email**: gcethimanshu@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/himanshu-shukla-512618249/
+
